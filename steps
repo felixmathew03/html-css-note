@@ -1,0 +1,8 @@
+git clone github_repo_link
+files are added to the repo folder
+
+1. git add .
+2. git config user.email "your_email"
+3. git config user.name "your_username"
+4. git commit -m "message"
+5. git push origin main
